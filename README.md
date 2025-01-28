@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Priyankakonduru06
+- 👋 Hi, I’m @Priyankakonduru
 - 👀 I’m interested in ... Learning new languges and tools 
 - 🌱 I’m currently learning ... python,SQL
 - 💞️ I’m looking to collaborate on ... related projects 
